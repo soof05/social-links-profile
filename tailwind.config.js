@@ -7,7 +7,8 @@ export default {
     extend: {
       colors: {
         customGreen: 'hsl(75, 94%, 57%)',
-        grey800: 'hsl(0, 0%, 12%)'
+        grey800: 'hsl(0, 0%, 12%)',
+        grey700: 'hsl(0, 0%, 20%)'
       },
     },
   },

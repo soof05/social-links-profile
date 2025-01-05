@@ -2,9 +2,9 @@ import avatar from "../assets/images/avatar-jessica.jpeg";
 import LinkButton from "./LinkButton";
 
 const socialLinks = [
-  { name: "Github", link: "https://github.com/" },
-  { name: "Frontend Mentor", link: "https://www.frontendmentor.io/home" },
-  { name: "Linkedin", link: "https://www.linkedin.com/" },
+  { name: "Github", link: "https://github.com/soof05" },
+  { name: "Frontend Mentor", link: "https://www.frontendmentor.io/profile/soof05/solutions" },
+  { name: "Linkedin", link: "https://www.linkedin.com/in/el-ouafqaoui-soufiane-/" },
   { name: "Twitter", link: "https://x.com/" },
   { name: "Instagram", link: "https://www.instagram.com/" },
 ];
